@@ -31,6 +31,22 @@
       "dismissible": true,
       "timestamp": 1774874804,
       "enabled": true
+    },
+    {
+      "text": "Bazarr+ v2.3.0 is live! This release introduces the Provider Hub, a built-in marketplace for installable subtitle providers. Existing built-in providers stay shipped as-is and keep working; from now on, all NEW providers live in a separate catalog repo and install on demand from the Hub. The roadmap is to gradually migrate every provider out of core and into the catalog so the whole ecosystem becomes easier to maintain for everyone. A provider SDK ships with this release, so developers can publish their own providers, contribute to the official catalog, or even host their own catalog and stay fully in control of it. Bazarr+ has always been community-driven; the plugin architecture is about making that work more open and much faster, lower barrier to entry, quicker iteration, no waiting on a core release to patch a broken site. First installable provider: SubtitleCat, the top-voted request on the upstream feature tracker (https://bazarr.featureupvote.com/suggestions/54294/provider-request-subtitle-cat). Browse the marketplace under Subtitle Hub > Marketplace.",
+      "link": "https://github.com/LavX/bazarr/releases",
+      "hash": "",
+      "dismissible": true,
+      "timestamp": 1779667200,
+      "enabled": true
+    },
+    {
+      "text": "fansubs.ru has joined the Provider Hub! A Russian fan-subtitle source is now installable from the marketplace. Open Subtitle Hub > Marketplace to install, no Bazarr+ update required. Catalog: github.com/LavX/bazarr-provider-catalog",
+      "link": "https://github.com/LavX/bazarr-provider-catalog",
+      "hash": "",
+      "dismissible": true,
+      "timestamp": 1779667200,
+      "enabled": true
     }
   ]
 }
