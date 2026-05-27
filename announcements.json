@@ -1,6 +1,14 @@
 {
   "data": [
     {
+      "text": "7 new subtitle providers have joined the Provider Hub! Install from the marketplace without updating Bazarr+: BollyNook (Indian and Bollywood movie subtitles in 40+ languages), iSubtitles (movie and episode subtitles with broad multilingual coverage), Kitsunekko (Japanese and English anime subtitle directories and ZIP packs), Moviesubtitles (106k+ movie subtitles across 13 languages, strong on DivX/Xvid releases), My-Subs (movie and episode subtitles in English, French, and Spanish), SubCentral (high-quality German and English TV series subtitles from an active community forum), SubHD (Chinese-first movie and episode subtitles with active subtitle groups). Browse Subtitle Hub > Marketplace to install. Catalog: github.com/LavX/bazarr-provider-catalog",
+      "link": "https://github.com/LavX/bazarr-provider-catalog",
+      "hash": "",
+      "dismissible": true,
+      "timestamp": 1779926400,
+      "enabled": true
+    },
+    {
       "text": "Bazarr+ v2.1.0 (LiveWire) is out! Ships a full subtitle editor inside Bazarr+: video preview with audio track selection, waveform timeline, inline cue editing, ffsubsync auto-sync, AI translation per cue, and 30+ keyboard shortcuts. Plus supervisor-backed startup with live SSE progress, request-a-stop on running jobs, opt-in subdl anime/pack support, and three upstream sync fixes that prevent silent stall conditions in long-running instances. Landing site: lavx.github.io/bazarr.",
       "link": "https://github.com/LavX/bazarr/releases/tag/v2.1.0",
       "hash": "",
