@@ -14,15 +14,7 @@
       "hash": "",
       "dismissible": true,
       "timestamp": 1776632171,
-      "enabled": true
-    },
-    {
-      "text": "New sister project: Arrstack. The arr stack, pre-wired. One command installs qBittorrent, Prowlarr, Sonarr, Radarr, Bazarr+, Jellyfin, and Jellyseerr on a clean Linux host in about 90 seconds, with API key cross-wiring, indexer tagging, and service bootstrapping handled automatically. No YAML, no wizard tours. Try it at lavx.github.io/arrstack.",
-      "link": "https://lavx.github.io/arrstack/",
-      "hash": "",
-      "dismissible": true,
-      "timestamp": 1776632171,
-      "enabled": true
+      "enabled": false
     },
     {
       "text": "Bazarr+ v2.0.0 (Eclipse) is here! We've officially become a hard fork with independent development and versioning. This release brings provider priority search, OpenSubtitles.org scraper, AI translation via 300+ LLMs, 11 batch operations, subtitle viewer, advanced filters, encrypted API keys, and a complete theme redesign. All tracking has been removed. Thank you for being part of this. Note: config changes are not backwards-compatible with upstream Bazarr, so keep a backup if you ever need to switch back.",
@@ -30,15 +22,7 @@
       "hash": "",
       "dismissible": true,
       "timestamp": 1774874804,
-      "enabled": true
-    },
-    {
-      "text": "The subtitle scoring system has been updated from upstream. If you notice subtitles not being downloaded that previously worked, lower your Minimum Score in Settings > Subtitles. The new default is 80% (previously 90%) because release-specific attributes now carry more weight in the score calculation.",
-      "link": "",
-      "hash": "",
-      "dismissible": true,
-      "timestamp": 1774874804,
-      "enabled": true
+      "enabled": false
     },
     {
       "text": "Bazarr+ v2.3.0 is live! This release introduces the Provider Hub, a built-in marketplace for installable subtitle providers. Existing built-in providers stay shipped as-is and keep working; from now on, all NEW providers live in a separate catalog repo and install on demand from the Hub. The roadmap is to gradually migrate every provider out of core and into the catalog so the whole ecosystem becomes easier to maintain for everyone. A provider SDK ships with this release, so developers can publish their own providers, contribute to the official catalog, or even host their own catalog and stay fully in control of it. Bazarr+ has always been community-driven; the plugin architecture is about making that work more open and much faster, lower barrier to entry, quicker iteration, no waiting on a core release to patch a broken site. First installable provider: SubtitleCat, the top-voted request on the upstream feature tracker (https://bazarr.featureupvote.com/suggestions/54294/provider-request-subtitle-cat). Browse the marketplace under Subtitle Hub > Marketplace.",
